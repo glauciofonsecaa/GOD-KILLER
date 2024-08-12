@@ -5,7 +5,7 @@ simple SMS-BOMBER and SMS Sender made with python work for Windows and Linux
 
 ### Linux Usage:
 ```
-https://github.com/FDX100/GOD-KILLER.git
+git clone https://github.com/FDX100/GOD-KILLER.git
 cd GOD-KILLER
 python install.py
 GOD-KILLER
